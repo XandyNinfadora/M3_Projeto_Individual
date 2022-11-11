@@ -1,0 +1,52 @@
+{
+    "filial": [
+        {
+            "id": 1,
+            "Campo Grande": "West Shopping",
+            "Bangu": "Bangu Shopping",
+            "Guadalupe": "Jardim Guadalupe",
+            "Irajá": "Shopping Via Brasil"
+        }
+    ],
+    "filmes": [
+        {
+            "id": 1,
+            "Infiltrados na Klan": "Biografia e Policial",
+            "Malcon X": "Biografia, Drama e Histórico",
+            "Corra!": "Suspense e Terror",
+            "Us": "Horror, Suspense e Terror",
+            "Halloween - A Noite do Terror": "Terror",
+            "O Enigma de Outro Mundo": "Ficção Científica e Terror",
+            "Pânico": "Crime , Mistério , Suspense , Terror",
+            "A Hora do Pesadelo": "Mistério e Terror"
+        }
+    ],
+    "ingresso": [
+        {
+            "ingresso meia": {
+                "id": 1,
+                "segunda-feira": "R$ 9,99",
+                "terça-feira": "R$ 9,99",
+                "quarta-feira": "R$ 9,99",
+                "quinta-feira": "R$ 9,99",
+                "sexta-feira": "R$ 11,99",
+                "sábado": "R$11,99",
+                "domingo": "R$11,99",
+                "feriados": "R$12,99",
+                "ponto facultativos": "R$12,99"
+            },
+            "ingresso inteira": {
+                "id": 2,
+                "segunda-feira": "R$ 19,99",
+                "terça-feira": "R$ 19,99",
+                "quarta-feira": "R$ 19,99",
+                "quinta-feira": "R$ 19,99",
+                "sexta-feira": "R$ 21,99",
+                "sábado": "R$21,99",
+                "domingo": "R$21,99",
+                "feriados": "R$22,99",
+                "ponto facultativos": "R$22,99"
+            }
+        }
+    ]
+}
