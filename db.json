@@ -22,31 +22,63 @@
         }
     ],
     "ingresso": [
-        {
-            "ingresso meia": {
-                "id": 1,
-                "segunda-feira": "R$ 9,99",
-                "terça-feira": "R$ 9,99",
-                "quarta-feira": "R$ 9,99",
-                "quinta-feira": "R$ 9,99",
-                "sexta-feira": "R$ 11,99",
-                "sábado": "R$11,99",
-                "domingo": "R$11,99",
-                "feriados": "R$12,99",
-                "ponto facultativos": "R$12,99"
-            },
-            "ingresso inteira": {
-                "id": 2,
-                "segunda-feira": "R$ 19,99",
-                "terça-feira": "R$ 19,99",
-                "quarta-feira": "R$ 19,99",
-                "quinta-feira": "R$ 19,99",
-                "sexta-feira": "R$ 21,99",
-                "sábado": "R$21,99",
-                "domingo": "R$21,99",
-                "feriados": "R$22,99",
-                "ponto facultativos": "R$22,99"
-            }
-        }
+        "Segunda-feira": {
+      "id": 1,
+      "Meia-entrada": "R$ 9,99",
+      "Inteira": "R$ 19,99"
+}
+"Terça-feira" : {
+      "id": 2,
+      "Meia-entrada": "R$ 9,99",
+      "Inteira": "R$ 19,99"
+}
+
+"Quarta-feira" : {
+      "id": 3,
+      "Meia-entrada": "R$ 9,99",
+      "Inteira": "R$ 19,99"
+}
+
+"Quinta-feira" : {
+      "id": 4,
+      "Meia-entrada": "R$ 9,99",
+      "Inteira": "R$ 19,99"
+}
+"Sexta-feira": {
+      "id": 5,
+      "Meia-entrada": "R$ 11,99",
+      "Inteira": "R$ 21,99"
+}
+"Sábado": {
+      "id": 6,
+      "Meia-entrada": "R$ 11,99",
+      "Inteira": "R$ 21,99"
+}
+"Domingo": {
+      "id": 7,
+      "Meia-entrada": "R$ 11,99",
+      "Inteira": "R$ 21,99"
+}
+"Feriados": {
+      "id": 8,
+      "Meia-entrada": "R$ 12,99",
+      "Inteira": "R$ 22,99"
+}
+
+    ]
+    "sugestão": [
+         {
+"id": 1,
+"Nome":"Arielle",
+"Comentário": "Esse logo tá horrível, melhorem!",
+"Avaliação do serviço": 3
+}
+ {
+"id": 2,
+"Nome":"Andriellen",
+"Comentário": "Amei o logo, não liga pra essa invejosa!!",
+"Avaliação do serviço": 10
+}
+}
     ]
 }
