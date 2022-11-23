@@ -65,18 +65,16 @@
             }
         }
     ],
-    "sugestão": [
+    "sugestoes": [
         {
             "id": 1,
             "Nome": "Arielle",
-            "Comentário": "Esse logo tá horrível, melhorem!",
-            "Avaliação do serviço": 3
+            "Comentário": "Esse logo tá horrível, melhorem!"
         },
         {
             "id": 2,
             "Nome": "Andriellen",
-            "Comentário": "Amei o logo, não liga pra essa invejosa!!",
-            "Avaliação do serviço": 10
+            "Comentário": "Amei o logo, não liga pra essa invejosa!!"
         }
     ]
 }
