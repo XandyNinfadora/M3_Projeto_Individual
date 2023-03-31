@@ -1,4 +1,4 @@
-# Terceiro Projeto Individual
+# Terceiro Projeto Individual - Lado C Json Server
 O objetivo do trabalho era o entendimento de como funciona um Json server e também a utilização da ferramenta Nodejs.
 
 O serviço pode ser acessado pelo link: https://ladojson.onrender.com
