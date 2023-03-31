@@ -1,5 +1,5 @@
 # Terceiro Projeto Individual
-O objetivo do trabalho era o entendimento de como funciona um Json server e também a utilização da ferramenta Nodejs. Esse projeto se tratava da criação de um Json-server. O arquivo pode ser aberto pelo seguinte link no fim do texto.
+O objetivo do trabalho era o entendimento de como funciona um Json server e também a utilização da ferramenta Nodejs.
 
 O serviço pode ser acessado pelo link: https://ladojson.onrender.com
 
