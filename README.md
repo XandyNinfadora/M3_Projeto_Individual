@@ -3,6 +3,8 @@ O objetivo do trabalho era o entendimento de como funciona um Json server e tamb
 
 O serviço pode ser acessado pelo link: https://ladocjson.onrender.com
 
+<img src="site.png" width="700px"/>
+
 <hr>
 
 ## Endpoints
